@@ -80,7 +80,6 @@ ul {
 }
 #todo-list {
   position: relative;
-  padding: 0;
   margin: 20px auto;
   max-width: 600px;
 }
